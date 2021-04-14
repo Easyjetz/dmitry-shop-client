@@ -16,8 +16,8 @@
 ### Библиотеки / Инструменты
 
 - Typescript
-- React.js with React-hooks
+- React.js (+ react-hooks, react-router-dom, react-responsive) 
 - Redux и Redux-Thunk
-- React-bootstrap
+- React-Bootstrap
 - Axios
 
